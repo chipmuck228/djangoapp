@@ -32,4 +32,4 @@ jobs:
       with:
         app-name: 'susieapp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_02cba4fec8814955a0cf6febd8d7eb4a }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ee39d6bb58a9472b84f663f0947e39aa }}
